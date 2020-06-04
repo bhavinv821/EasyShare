@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Transfer</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">App</string>
+    <string name="tab_text_2">Photo</string>
+    <string name="tab_text_3">Video</string>
+    <string name="tab_text_4">Music</string>
+    <string name="tab_text_5">File</string>
 </resources>
